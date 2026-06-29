@@ -1,6 +1,6 @@
 # Growth vs Emissions: Which Countries Have Decoupled?
 
-A data analysis project that cleans global CO₂ and GDP data **with SQL**, then uses **unsupervised learning** to find patterns in how countries' economies and emissions have moved together — or apart — from 1995 to 2022.
+A data analysis project that cleans global CO₂ and GDP data **with SQL**, then uses **unsupervised learning** to find patterns in how countries' economies and emissions have moved together or apart from 1995 to 2022.
 
 > **Headline question:** *Which countries have grown their economy while cutting CO₂ emissions and what distinguishes them from those that haven't?*
 
